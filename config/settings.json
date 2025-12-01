@@ -1,0 +1,13 @@
+{
+  "target_directory": "demo/files",
+  "output_directory": "demo/demo_output",
+  "categories": {
+    "images": [".jpg", ".png", ".jpeg", ".gif"],
+    "videos": [".mp4", ".avi"],
+    "documents": [".pdf", ".txt", ".docx"]
+  },
+  "size_limits": {
+    "small": 100000,
+    "medium": 5000000
+  }
+}
